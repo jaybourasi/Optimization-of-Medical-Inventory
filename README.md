@@ -1,5 +1,5 @@
 
-# Dashboards for Inventory Insights
+# Dashboards for this project
 
 ## 1. Stock Levels Overview
 
