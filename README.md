@@ -17,7 +17,7 @@
   - Significant decline in **2024** (-105K units, an 80% decrease), suggesting improved utilization or reduced demand.
 - **Yearly Procurement Trends**:
   - Peak procurement in **2023** (590K units) with a sharp **79% decline** in 2024 (125K units).
-### 1. Stock Level - Overview
+### Stock Level - Overview
 ![Stock Level - Overview](https://github.com/jaybourasi/Optimization-of-Medical-Inventory/blob/main/Images/Stock%20Level%20-%20Overview.png)
 ---
 
@@ -49,7 +49,7 @@
 - **Goods Receipt for Account Assignment**: **6.65%**.
   - Key Insight: Majority of procurement movements involve Goods Receipts.
 
-### 2. Procurement Insights
+### Procurement Insights
 ![Procurement Insights](https://github.com/jaybourasi/Optimization-of-Medical-Inventory/blob/main/Images/Procurement%20Insights.png)
 ---
 
@@ -76,6 +76,6 @@
 - **Other Plants (B, D, E, F)**: ₹42M (**5.91%**).
   - Key Insight: Focusing on Plant A could achieve significant cost reductions.
 
-### 3. Financial Insights
+### Financial Insights
 ![Procurement Insights](https://github.com/jaybourasi/Optimization-of-Medical-Inventory/blob/main/Images/Financial%20Insights.png)
 ---
