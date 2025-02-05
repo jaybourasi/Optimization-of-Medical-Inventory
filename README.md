@@ -1,6 +1,7 @@
-# Project Details
+# Optimization of Medical Inventory
+## Project Details
 - Business Understanding – Identified the project’s business problem: inefficient raw material procurement leading to overpaying and surplus inventory, increasing costs. - Defined objectives to minimize inventory costs and optimize stock utilization.
-- Data Collection – Loaded the cleaned base data from Excel to SQL for structured storage and basic operations.
+- Data Collection – Gathered data from various sources, including research articles, industry reports, company databases, and Excel files. After collection, prepared a CSV file and then loaded it into SQL for structured storage and basic operations.
 - Data Cleaning & Preparation – Performed initial data corrections in SQL, then loaded the dataset into Python for advanced processing.
 - Exploratory Data Analysis (EDA) – Analyzed column-wise statistics (data type, null count, average, median, min, max, standard deviation, sum, skewness, and kurtosis) using Pandas, SciPy, and NumPy.
 - Data Visualization (Power BI & Excel) – Built interactive dashboards to track inventory levels, procurement trends, and cost inefficiencies.
