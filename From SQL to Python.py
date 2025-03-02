@@ -2,9 +2,9 @@ from sqlalchemy import create_engine
 import pandas as pd
 
 # Database connection details
-username = 'postgres'
-password = 'jay1029'
-host = 'localhost'
+username = '####'
+password = '####'
+host = '####'
 port = '5432'
 database = 'Inventory'
 
