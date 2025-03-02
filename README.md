@@ -7,6 +7,11 @@
 - Data Visualization (Power BI & Excel) – Built interactive dashboards to track inventory levels, procurement trends, and cost inefficiencies.
 - Insights & Recommendations – Suggested stock optimization strategies to reduce waste and improve procurement efficiency.
 
+## Achievements 
+- Reduced underutilized inventory by 20%, optimizing stock utilization.
+- Cut storage and management costs by 25%, enhancing cost efficiency.
+- Improved procurement planning using data-driven insights.
+
 ## Dashboards for this project
 
 ### 1. Stock Levels Overview
